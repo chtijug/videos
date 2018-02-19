@@ -1,0 +1,14 @@
+ Ch'ti JUG - 15 Fev 18 - Salomon BRYS - Be in, learn Kotlin!
+
+Découvrez Kotlin, le langage propulsé par JetBrains sur la JVM, avec Salomon BRYS.
+
+Session enregistrée le 15 février 2018 chez AXA France.
+
+Merci Salomon BRYS (@salomonbrys - https://github.com/salomonbrys) pour le partage autour de ce nouveau langage.
+
+Nous tenons à remercier AXA France pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, KaliCustomer et AXA France.
+
+Pour plus de détails sur la session, c'est pâr ichi: https://chtijug.org/session-kotlin-le-15-fevrier-chez-axa-france/
+
