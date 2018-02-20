@@ -2,7 +2,7 @@ TITLE             := Ch'ti JUG - Be in, learn Kotlin
 COMMENT           := Ch'ti JUG - Session Kotlin présentée par Salomon BRYS le 15 février 2018 chez AXA
 INTRO             := intro
 OUTPUT            := output.mov
-DURATION          := 01:28:08
+DURATION          := 5290 # 01:28:10
 COMPUTER          := computer.mov
 COMPUTER_START_TS := 00:00:20.573
 SPEAKER           := speaker.mp4
@@ -24,8 +24,6 @@ $(SPEAKER): Rush/$(SPEAKER)
 	ffmpeg -y -i $< -map_metadata -1 -ss $(SPEAKER_START_TS) -t $(DURATION) -c copy $@
 
 $(OUTPUT): $(COMPUTER) $(SPEAKER) $(BACKGROUND) $(INTRO).mov
-	$(eval COMPUTER_NB_FRAMES      := $(shell ffprobe -i $(COMPUTER) -show_entries stream=codec_type,nb_frames -of compact=p=0:nk=1 -loglevel panic | grep video | cut -d '|' -f 2))
-	$(eval COMPUTER_AUDIO_DURATION := $(shell ffprobe -i $(COMPUTER) -show_entries stream=codec_type,duration  -of compact=p=0:nk=1 -loglevel panic | grep audio | cut -d '|' -f 2))
 	ffmpeg -y \
 		-i $(COMPUTER) \
 		-i $(SPEAKER) \
@@ -42,8 +40,8 @@ $(OUTPUT): $(COMPUTER) $(SPEAKER) $(BACKGROUND) $(INTRO).mov
 			[base][background] overlay=shortest=0 [base+background]; \
 			[base+background][laptop] overlay=shortest=1:x=33:y=180 [background+laptop]; \
 			[background+laptop][speaker] overlay=shortest=1:repeatlast=0:x=1343:y=180 [background+laptop+speaker]; \
-			[background+laptop+speaker] fade=in:0:25,fade=out:$(shell expr $(COMPUTER_NB_FRAMES) - 25):25 [vsession]; \
-			[0:a] volume=-10dB,afade=in:ss=0:d=1,afade=out:st=$(shell echo "$(COMPUTER_AUDIO_DURATION) - 1" | bc | cut -d '.' -f 1):d=1 [asession]; \
+			[background+laptop+speaker] fade=in:0:25,fade=out:st=$(shell expr $(DURATION) - 2):d=1 [vsession]; \
+			[0:a] volume=-10dB,afade=in:ss=0:d=1,afade=out:st=$(shell expr $(DURATION) - 2):d=1 [asession]; \
 			[intro][3:a][vsession][asession][outro][4:a] concat=n=3:v=1:a=1 \
 		" \
 		-metadata album="Ch'ti JUG" \
