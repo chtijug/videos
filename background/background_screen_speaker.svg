@@ -19,11 +19,11 @@
   <!-- <rect id="screen"
      x="33" y="180" width="1280" height="720" fill="lime" /> -->
   <image id="logo_kalicustomer"
-     x="208" y="963" width="200" height="60" xlink:href="./logos/kalicustomer.png" />
+     x="238" y="963" width="200" height="60" xlink:href="./logos/kalicustomer.png" />
   <image id="logo_axa"
-     x="584" y="963" width="178" height="60" xlink:href="./logos/axa.svg" />
+     x="643" y="963" width="60" height="60" xlink:href="./logos/axa.svg" />
   <image id="logo_zenika"
-     x="947" y="963" width="189" height="60" xlink:href="./logos/zenika.png" />
+     x="924" y="963" width="189" height="60" xlink:href="./logos/zenika.png" />
 
   <image id="logo_chtijug"
      x="1533" y="10" width="160" height="160" xlink:href="./logos/chtijug.png" />
