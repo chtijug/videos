@@ -26,7 +26,7 @@
      x="924" y="963" width="189" height="60" xlink:href="./logos/zenika.png" />
 
   <image id="logo_chtijug"
-     x="1533" y="10" width="160" height="160" xlink:href="./logos/chtijug.png" />
+     x="1533" y="10" width="160" height="160" xlink:href="./logos/chtijug.svg" />
   <rect id="speaker_shadow"
      x="1343" y="180" width="546" height="726" fill="grey" rx="3" ry="3" />
   <rect id="speaker_border"
