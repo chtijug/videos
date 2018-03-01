@@ -7,10 +7,17 @@
    viewBox="0 0 1920 1080"
    id="background">
 
+  <defs>
+    <linearGradient id="bck" x1="0.1" y1="0.3" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#eee" />
+      <stop offset="100%" stop-color="#aaa" />
+    </linearGradient>
+  </defs>
+
   <rect id="back_border" 
      x="0" y="0" width="1920" height="1080" fill="black" />
   <rect id="back"
-     x="3" y="3" width="1914" height="1074" fill="white" />
+     x="3" y="3" width="1914" height="1074" fill="url(#bck)" />
 
   <rect id="screen_shadow"
      x="33" y="180"  width="1286" height="726" fill="grey" rx="3" ry="3" />
