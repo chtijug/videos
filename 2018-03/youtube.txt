@@ -1,0 +1,15 @@
+Ch'ti JUG - 20 Mar 18 - Edouardo San Martin Morote - Vue.js
+
+Découvrez Vue.js avec Edouardo San Martin Morote.
+
+Session enregistrée le 20 mars 2018 chez Pictime Groupe.
+
+Merci Edouardo San Martin Morote (@posva) pour le partage autour de ce framework.
+
+Nous tenons à remercier Pictime Groupe pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, KaliCustomer et AXA France.
+
+Pour plus de détails sur la session, c'est pâr ichi: https://chtijug.org/session-vue-js-le-20-mars-chez-pictime-groupe/
+
+Bon visionnach' biloute!
