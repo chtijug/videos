@@ -1,0 +1,15 @@
+Ch'ti JUG - 16 Avr 18 - David Gageot - Docker, Kubernetes et Istio, c'est utile pour mon monolithe?
+
+Découvrez Docker, Kubernetes et Istio avec David Gageot.
+
+Session enregistrée le 16 avril 2018 chez Adeo.
+
+Merci David Gageot (@dgageot) pour le partage autour de cet écosystème.
+
+Nous tenons à remercier Adeo pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, KaliCustomer et AXA France.
+
+Pour plus de détails sur la session, c'est pâr ichi: https://chtijug.org/docker-kubernetes-et-istio-cest-utile-pour-mon-monolithe/
+
+Bon visionnach' biloute!
