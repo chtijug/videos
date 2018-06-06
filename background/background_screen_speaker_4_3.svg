@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="1920" height="1080"
+   viewBox="0 0 1920 1080"
+   id="background">
+
+  <defs>
+    <linearGradient id="bck" x1="0.1" y1="0.3" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#eee" />
+      <stop offset="100%" stop-color="#aaa" />
+    </linearGradient>
+    <filter id="dropShadow">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4" />
+      <feOffset dx="4" dy="4" />
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect id="back_border"
+     x="0" y="0" width="1920" height="1080" fill="black" />
+  <rect id="back"
+     x="3" y="3" width="1914" height="1074" fill="url(#bck)" />
+
+  <rect id="screen_border"
+     x="30" y="57"  width="1286" height="966" fill="black" rx="3" ry="3" filter="url(#dropShadow)" />
+  <!-- <rect id="screen"
+     x="33" y="60" width="1280" height="960" fill="lime" /> -->
+
+  <rect id="speaker_border"
+     x="1340" y="57" width="546" height="726" fill="black" rx="3" ry="3" filter="url(#dropShadow)" />
+  <!-- <rect id="speaker"
+     x="1343" y="60" width="540" height="720" fill="cyan"/> -->
+
+  <image id="logo_kalicustomer"
+     x="1450" y="815" width="169" height="60" xlink:href="./logos/kalicustomer.svg"  filter="url(#dropShadow)"/>
+
+  <image id="logo_axa"
+     x="1505" y="891" width="60" height="60" xlink:href="./logos/axa.svg" />
+
+  <image id="logo_zenika"
+     x="1465" y="967" width="139" height="60" xlink:href="./logos/zenika.svg" />
+
+  <image id="logo_chtijug"
+     x="1690" y="837" width="160" height="160" xlink:href="./logos/chtijug.svg" />
+
+</svg>
