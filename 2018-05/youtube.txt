@@ -1,0 +1,15 @@
+Ch'ti JUG - 22 Mai 18 - Dimitri Fontaine - PostgreSQL is YeSQL!
+
+Découvrez ou redécouvrez SQL en général et PostgreSQL en particulier avec Dimitri Fontaine.
+
+Session enregistrée le 22 mai 2018 à Euratechnologies.
+
+Merci Dimitri Fontaine (@tapoueh) pour ce rafraîchissement autour de SQL et PostgreSQL.
+
+Nous tenons à remercier le Club_Tech d’Euratechnologies pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, KaliCustomer et AXA France.
+
+Pour plus de détails sur la session, c'est pâr ichi: https://chtijug.org/session-postgresql-le-22-mai/
+
+Bon visionnach' biloute!
