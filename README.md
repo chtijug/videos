@@ -56,6 +56,23 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Mai 2018, SQL + PostgreSQL
+
+* Cette fois-ci, nous nous reposons sur le matériel et l'équipe technique, oui on _cheat_ :)
+* Reste à monter un peu différemment car les slides sont en 4:3
+* Les rushs sont énormes et il nous faudra un peu de temps pour en assurer la récupération, [nous publions quand même](https://youtu.be/YJScBvT0bxg)
+
+### ✅ Avril 2018, Docker + Kubernetes + Istio
+
+* Nouveau lieu, nouvelle difficulté avec une grande distance de la caméra, NB: en mode sniper, être très, très, ... très  délicat
+* Le montage est maintenant bien rodé, [nous publions à J+1](https://youtu.be/YJScBvT0bxg)
+
+### ✅ Mars 2018, Vue.js
+
+* Nouveau lieu, moins de galères d'installation lié à un repérage préalable
+* Nous sonorisons mais le son est cette fois un poil trop faible, pas facile à régler in situ juste avant de commencer avec nos moyens actuels
+* Le montage est mieux fini, [nous publions à J+1](https://youtu.be/yEYb1IaaG98)
+
 ### ✅ Février 2018, Kotlin
 
 * Galères d'installation, branchement du boitier à l'envers 😱
@@ -64,7 +81,7 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 * L'orateur sous exposé sur la vidéo
 * Batterie de la caméra qui lâche à 60s de la fin 😡.
 * Fin de la vidéo un peu brutale, pas d'applaudissements.
-* Gros point positif: [la vidéo est utilisable](https://www.youtube.com/watch?v=GdQec3-xqjU), nous la publions à J+3 .
+* Gros point positif: [la vidéo est utilisable](https://youtu.be/GdQec3-xqjU), nous la publions à J+3 .
 
 ## Futur
 
