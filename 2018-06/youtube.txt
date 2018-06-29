@@ -1,0 +1,15 @@
+Ch'ti JUG - 26 Juin 18 - Florent Ramière - Apache Kafka
+
+Découvrez Apache Kafka ainsi que l'écosystème open-source qui gravite autour avec Florent Ramière.
+
+Session enregistrée le 26 juin 2018 chez Norsys.
+
+Merci Florent Ramière (@framiere) pour ce tour dans l'univers de Kafka.
+
+Nous tenons à remercier Norsys pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, KaliCustomer et AXA France.
+
+Pour plus de détails sur la session, c'est pâr ichi: https://chtijug.org/session-kafka-le-26-juin/
+
+Bon visionnach' biloute!

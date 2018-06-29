@@ -56,6 +56,11 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Juin 2018, Kafka
+
+* Le stagiaire ayant oublié d'allumer la caméra pour filmer le speaker pendant une dizaine de minutes, il nous faut un nouveau montage pour faire illusion ;P
+* L'assemblage trouvé est satisfaisant, [nous publions à J+3](https://youtu.be/TPmzBekhdy4)
+
 ### ✅ Mai 2018, SQL + PostgreSQL
 
 * Cette fois-ci, nous nous reposons sur le matériel et l'équipe technique, oui on _cheat_ :)
