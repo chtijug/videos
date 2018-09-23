@@ -1,0 +1,15 @@
+Ch'ti JUG - 20 Sep 18 - Julien Dubois - JHipster, générer, développer des applis Web avec Spring Boot et Angular/React
+
+Découvrez ou redécouvrez les capacités offertes aux développeur(e)s grace à JHipster avec Julien Dubois.
+
+Session enregistrée le 20 septembre 2018 chez AXA France.
+
+Merci Julien Dubois (@juliendubois) pour cette introduction à JHipster.
+
+Nous tenons à remercier AXA France pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, KaliCustomer et AXA France.
+
+Pour plus de détails sur la session, c'est pâr ichi: https://chtijug.org/jhipster-generer-developper-des-applis-web-avec-spring-boot-et-angular-react/
+
+Bon visionnach' biloute!
