@@ -1,0 +1,13 @@
+Ch'ti JUG - 11 Dec 18 - François Teychene - Mon premiser service ReST avec Rust
+
+Jettez un œil sans vous blesser sur ce language de programmation mis en situation par François Teychene.
+
+Session enregistrée le 11 décembre 2018 au Batiment M5 de l'Université de Lille.
+
+Merci François (@fteychene) pour cette introduction à Rust.
+
+Nous tenons à remercier l'Université de Lille pour l'acceuil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, KaliCustomer et AXA France.
+
+Bon visionnach' biloute!
