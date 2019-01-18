@@ -56,6 +56,11 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Janvier 2019, Spring Boot Kofu et coroutines
+
+* Nouvelle année et nouveau masque, la vidéo du speaker est positionné sur la gauche.
+* L'assemblage trouvé est satisfaisant, [nous publions à J+1](https://youtu.be/IuIR_xgfUV0)
+
 ### ✅ Juin 2018, Kafka
 
 * Le stagiaire ayant oublié d'allumer la caméra pour filmer le speaker pendant une dizaine de minutes, il nous faut un nouveau montage pour faire illusion ;P

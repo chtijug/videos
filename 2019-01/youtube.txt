@@ -1,0 +1,13 @@
+Ch'ti JUG - 17 Jan 19 - Sébastien Deleuze - Spring Boot avec Kofu et les coroutines
+
+Découvrez les nouveautés à venir sur Spring Boot avec Sébastien Deleuze.
+
+Session enregistrée le 17 janvier 2019 dans les locaux de l'IUT A de l'Université de Lille.
+
+Merci Sébastien Deleuze (@sdeleuze) pour ce partage.
+
+Nous tenons à remercier le personnel de l'IUT A de l'Université de Lille pour l'accueil de cette session ainsi que QIMA qui a sponsorisé l'évènnement.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, KaliCustomer et AXA France.
+
+Bon visionnach' biloute!

@@ -1,6 +1,20 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 TARGET=${1:-speaker}
+
+usage() {
+    local NAME=$(basename $0)
+    cat >&1 <<!
+NAME
+  $NAME - movies concatenation tool
+
+SYNOPSIS
+  $NAME [speaker|computer]
+
+DESCRIPTION
+  Run $NAME in the Rush directory, and ... that's it ;)
+!
+}
 
 case $TARGET in
     speaker)
@@ -18,6 +32,7 @@ case $TARGET in
         ffmpeg -f concat -safe 0 -i ${TARGET}.txt -c copy ${TARGET}.mp4
         ;;
     *)
+        usage
         exit 1
         ;;
 esac
