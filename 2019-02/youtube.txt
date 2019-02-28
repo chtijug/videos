@@ -1,0 +1,11 @@
+Ch'ti JUG - 26 Fév 19 - Loïc Mathieu - Au delà de Java 8: Embrassez les nouvelles versions de Java
+
+Découvrez les nouveautés introduite par les différentes versions de Java depuis 9 avec Loïc Mathieu.
+
+Session enregistrée le 26 février 2019 dans les locaux de Zinka Lille.
+
+Merci Loïc Mathieu (@loicmathieu) pour ce partage.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, KaliCustomer et AXA France.
+
+Bon visionnach' biloute!

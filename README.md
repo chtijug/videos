@@ -56,6 +56,10 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Février 2019, Au delà de Java 8: Embrassez les nouvelles versions de Java
+
+* Le cadrage n'était pas imple mais la solution trouvée offre un bon compromis, [nous publions à J+2](https://youtu.be/tWoyXjVQRCk)
+
 ### ✅ Janvier 2019, Spring Boot Kofu et coroutines
 
 * Nouvelle année et nouveau masque, la vidéo du speaker est positionné sur la gauche.
