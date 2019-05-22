@@ -1,6 +1,10 @@
 LOGOS := $(wildcard logos/*)
+SOURCES := $(wildcard *.svg)
+TARGETS := $(patsubst %.svg,%.png,$(SOURCES))
 
-default: background_screen_speaker.png
+default: all
+
+all: $(TARGETS)
 
 %.png: %.svg $(LOGOS)
 	inkscape -f $< -e $@

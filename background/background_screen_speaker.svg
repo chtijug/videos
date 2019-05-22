@@ -37,14 +37,23 @@
   <!-- <rect id="speaker"
      x="1343" y="180" width="540" height="720" fill="cyan"/> -->
 
-  <image id="logo_kalicustomer"
-     x="263" y="963" width="169" height="60" xlink:href="./logos/kalicustomer.svg" />
+  <!-- ( 1280 - (245 + 169 + 60 + 139) ) / 5 = 133,... -->
 
+  <!-- 33 + 133 = 166 -->
   <image id="logo_axa"
-     x="643" y="963" width="60" height="60" xlink:href="./logos/axa.svg" />
+     x="166" y="963" width="60" height="60" xlink:href="./logos/axa.svg" />
 
+  <!-- 166 + 60 + 133 = 359 -->
+  <image id="logo_kalicustomer"
+     x="359" y="963" width="169" height="60" xlink:href="./logos/kalicustomer.svg" />
+
+  <!-- 359 + 169 + 133 = 661 -->
+  <image id="logo_octo"
+     x="661" y="963" width="245" height="60" xlink:href="./logos/octo.svg" />
+
+  <!-- 661 + 245 + 133 = 1039 -->
   <image id="logo_zenika"
-     x="949" y="963" width="139" height="60" xlink:href="./logos/zenika.svg" />
+     x="1039" y="963" width="139" height="60" xlink:href="./logos/zenika.svg" />
 
   <image id="logo_chtijug"
      x="1533" y="10" width="160" height="160" xlink:href="./logos/chtijug.svg" />

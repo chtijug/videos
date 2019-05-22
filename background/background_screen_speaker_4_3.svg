@@ -37,16 +37,29 @@
   <!-- <rect id="speaker"
      x="1343" y="60" width="540" height="720" fill="cyan"/> -->
 
-  <image id="logo_kalicustomer"
-     x="1450" y="815" width="169" height="60" xlink:href="./logos/kalicustomer.svg"  filter="url(#dropShadow)"/>
-
+  <!-- x: 1373 + ( 540 / 6 ) - ( 60 / 2 ) = 1433 -->
+  <!-- y: 800 + ( 300 / 6 ) = 850 -->
   <image id="logo_axa"
-     x="1505" y="891" width="60" height="60" xlink:href="./logos/axa.svg" />
+     x="1433" y="850" width="60" height="60" xlink:href="./logos/axa.svg" />
 
+  <!-- x: 1343 + ( 5 * 540 / 6 ) - ( 169 / 2 ) = 1708 -->
+  <!-- y: 60 + 720 + ( 300 / 6 ) = 830 -->
+  <image id="logo_kalicustomer"
+     x="1708" y="830" width="169" height="60" xlink:href="./logos/kalicustomer.svg"  filter="url(#dropShadow)"/>
+
+  <!-- x: 1373 + ( 540 / 6 ) - ( 245 / 2 ) = 1340 -->
+  <!-- y: 60 + 720 + ( ( 4 * 300 ) / 6 ) = 980 -->
+  <image id="logo_octo"
+     x="1340" y="980" width="245" height="60" xlink:href="./logos/octo.svg" />
+
+  <!-- x: 1343 + ( 5 * 540 / 6 ) - ( 160 / 2 ) = 1712 -->
+  <!-- y: 60 + 720 + ( ( 4 * 300 ) / 6 ) = 980 -->
   <image id="logo_zenika"
-     x="1465" y="967" width="139" height="60" xlink:href="./logos/zenika.svg" />
+     x="1712" y="980" width="139" height="60" xlink:href="./logos/zenika.svg" />
 
+  <!-- x: 1343 + ( 540 / 2 ) - (120 / 2) = 1553 -->
+  <!-- y: 1080 - ( ( 1080 - 720 - 60 ) / 2 ) - (120 / 2) = 870 -->
   <image id="logo_chtijug"
-     x="1690" y="837" width="160" height="160" xlink:href="./logos/chtijug.svg" />
+     x="1553" y="870" width="120" height="120" xlink:href="./logos/chtijug.svg" />
 
 </svg>
