@@ -56,9 +56,13 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Mai 2019, To be or not to be Serverless
+
+* Premier enregistrement effectué dans l'amphi de Decathlon Campus, avec son capturé en sortie de sono, [nous publions à J+6](https://youtu.be/k2xFh_eH7Dk)
+
 ### ✅ Février 2019, Au delà de Java 8: Embrassez les nouvelles versions de Java
 
-* Le cadrage n'était pas imple mais la solution trouvée offre un bon compromis, [nous publions à J+2](https://youtu.be/tWoyXjVQRCk)
+* Le cadrage n'était pas simple mais la solution trouvée offre un bon compromis, [nous publions à J+2](https://youtu.be/tWoyXjVQRCk)
 
 ### ✅ Janvier 2019, Spring Boot Kofu et coroutines
 
