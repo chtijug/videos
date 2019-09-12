@@ -8,7 +8,7 @@ COMPUTER          := Rush/computer.mov
 COMPUTER_START_TS := 00:12:51.500
 SPEAKER           := Rush/speaker.mp4
 SPEAKER_START_TS  := 00:00:00.000# Blank since 00:01:05 in computer timeline -> 00:11:46.500 duration (706.5 s)
-BACKGROUND        := background.png
+BACKGROUND        := ../background/background_screen_speaker.png
 YEAR              := $(shell date "+%Y")
 
 .PHONY: clean default

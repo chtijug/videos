@@ -8,7 +8,7 @@ COMPUTER          := Rush/computer.mov
 COMPUTER_START_TS := 00:10:01.575
 SPEAKER           := Rush/speaker.mp4
 SPEAKER_START_TS  := 00:00:00.000
-BACKGROUND        := background.png
+BACKGROUND        := ../background/background_speaker_screen.png
 YEAR              := $(shell date "+%Y")
 
 .PHONY: clean default
