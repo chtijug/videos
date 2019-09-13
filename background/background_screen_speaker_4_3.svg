@@ -37,29 +37,31 @@
   <!-- <rect id="speaker"
      x="1343" y="60" width="540" height="720" fill="cyan"/> -->
 
-  <!-- x: 1373 + ( 540 / 6 ) - ( 60 / 2 ) = 1433 -->
-  <!-- y: 800 + ( 300 / 6 ) = 850 -->
+  <!-- ( 540 - ( 60 + 120 + 139 ) ) / 4 = 55 -->
+
+  <!-- x: 1343 + 55 = 1398 -->
+  <!-- y: 830 + ( 120 / 2 ) - ( 60 / 2 ) = 860 -->
   <image id="logo_axa"
-     x="1433" y="850" width="60" height="60" xlink:href="./logos/axa.svg" />
+     x="1398" y="860" width="60" height="60" xlink:href="./logos/axa.svg" />
 
-  <!-- x: 1343 + ( 5 * 540 / 6 ) - ( 169 / 2 ) = 1708 -->
-  <!-- y: 60 + 720 + ( 300 / 6 ) = 830 -->
-  <image id="logo_kalicustomer"
-     x="1708" y="830" width="169" height="60" xlink:href="./logos/kalicustomer.svg"  filter="url(#dropShadow)"/>
-
-  <!-- x: 1373 + ( 540 / 6 ) - ( 245 / 2 ) = 1340 -->
-  <!-- y: 60 + 720 + ( ( 4 * 300 ) / 6 ) = 980 -->
-  <image id="logo_octo"
-     x="1340" y="980" width="245" height="60" xlink:href="./logos/octo.svg" />
-
-  <!-- x: 1343 + ( 5 * 540 / 6 ) - ( 160 / 2 ) = 1712 -->
-  <!-- y: 60 + 720 + ( ( 4 * 300 ) / 6 ) = 980 -->
-  <image id="logo_zenika"
-     x="1712" y="980" width="139" height="60" xlink:href="./logos/zenika.svg" />
-
-  <!-- x: 1343 + ( 540 / 2 ) - (120 / 2) = 1553 -->
+  <!-- x: 1398 + 60 + 55 = 1513 -->
   <!-- y: 1080 - ( ( 1080 - 720 - 60 ) / 2 ) - (120 / 2) = 870 -->
   <image id="logo_chtijug"
-     x="1553" y="870" width="120" height="120" xlink:href="./logos/chtijug.svg" />
+     x="1513" y="830" width="120" height="120" xlink:href="./logos/chtijug.svg" />
+
+  <!-- x: 1513 + 120 + 55 = 1698 -->
+  <!-- y: 830 + ( 120 / 2 ) - ( 60 / 2 ) = 860 -->
+  <image id="logo_zenika"
+     x="1698" y="860" width="139" height="60" xlink:href="./logos/zenika.svg" />
+
+  <!-- x: 1343 + ( 540 / 6 ) - ( 245 / 2 ) = 1310 -->
+  <!-- y: 60 + 720 + ( ( 4 * 300 ) / 6 ) = 980 -->
+  <image id="logo_octo"
+     x="1343" y="980" width="245" height="60" xlink:href="./logos/octo.svg" />
+
+  <!-- x: 1343 + 540 - 280 = 1603 -->
+  <!-- y: 60 + 720 + ( 300 / 6 ) = 830 -->
+  <image id="logo_mediatech-cx"
+     x="1603" y="995" width="300" height="31" xlink:href="./logos/mediatech-cx.svg"/>
 
 </svg>
