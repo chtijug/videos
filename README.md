@@ -56,6 +56,10 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Septembre 2019, Securing your API from basics to beyond
+
+* Premier enregistrement effectué dans les locaux d'EFFICOM Lille, r.a.s., [nous publions à J+1](https://youtu.be/01aXo9GXGV0)
+
 ### ✅ Mai 2019, To be or not to be Serverless
 
 * Premier enregistrement effectué dans l'amphi de Decathlon Campus, avec son capturé en sortie de sono, [nous publions à J+6](https://youtu.be/k2xFh_eH7Dk)

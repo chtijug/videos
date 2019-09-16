@@ -1,0 +1,13 @@
+Ch'ti JUG - 12 Sept 19 - Alexandre Faria - Securing your API from basics to beyond
+
+Mettez vos pratiques à jour vis-à-vis de la sécurité des API avec Alexandre Faria.
+
+Session enregistrée le 12 septembre 2019 chez EFFICOM Lille.
+
+Merci Alexandre Faria (@lusoalex_) pour ce partage.
+
+Nous tenons à remercier EFFICOM Lille pour l'accueil de cette session ainsi que Decathlon pour le sponsoring du buffet.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, OCTO, Mediatech-cx (aka Kalicustomer) et AXA France.
+
+Bon visionnach' biloute!
