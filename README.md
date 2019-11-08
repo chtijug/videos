@@ -56,6 +56,12 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Octobre 2019, les 10 ans!
+
+* Double session pour cette soirée spéciale enregistrée à Euratechnologies
+* Première partie: [Emmanuel Bernard](https://youtu.be/UB-pRJgGhZc)
+* Deuxième partie: [Shirley Almosni Chiche](https://youtu.be/01aXo9GXGV0)
+
 ### ✅ Septembre 2019, Securing your API from basics to beyond
 
 * Premier enregistrement effectué dans les locaux d'EFFICOM Lille, r.a.s., [nous publions à J+1](https://youtu.be/01aXo9GXGV0)
