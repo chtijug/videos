@@ -56,6 +56,10 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Novembre 2019, Pourquoi Gradle ?
+
+* Envore un problème de réglage son, nous devons recourrir à la captation caméra en lieu et place de la captation micro 😠, [nous publions après une semaine de bidouille](https://youtu.be/KAr28fysEDA)
+
 ### ✅ Octobre 2019, les 10 ans!
 
 * Double session pour cette soirée spéciale enregistrée à Euratechnologies

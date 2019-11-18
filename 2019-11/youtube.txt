@@ -1,0 +1,13 @@
+Ch'ti JUG - 13 Nov 19 - Louis Jacomet - Pourquoi Gradle ?
+
+Découvrez ou re-découvrez Gradle avec Louis Jacomet.
+
+Session enregistrée le 13 Novembre 2019 à L'IUT A de Lille.
+
+Merci Louis Jacomet (@ljacomet) pour cette présentation de Gradle.
+
+Nous tenons à remercier l'IUT A de Lille pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, OCTO, KaliCustomer et AXA France.
+
+Bon visionnach' biloute!
