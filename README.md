@@ -56,6 +56,10 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Décembre 2019, Redis du Clé/Valeur au Multi-Modèle
+
+* Encore un problème de son, nous devons recourrir une fois de plus à la captation caméra en lieu et place de la captation micro 😠, [nous publions là](https://youtu.be/JL1DVrNxfWo)
+
 ### ✅ Novembre 2019, Pourquoi Gradle ?
 
 * Envore un problème de réglage son, nous devons recourrir à la captation caméra en lieu et place de la captation micro 😠, [nous publions après une semaine de bidouille](https://youtu.be/KAr28fysEDA)

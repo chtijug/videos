@@ -1,0 +1,13 @@
+Ch'ti JUG - 17 Dec 19 - Tugdual Grall - Redis du Clé/Valeur au Multi-Modèle
+
+Découvrez ou re-découvrez Redis en compagnie de Tugdual Grall.
+
+Session enregistrée le 17 décembre 2019 chez AXA.
+
+Nous remercions Tugdual Grall (@tgrall) pour cette présentation de Redis.
+
+Nous tenons à remercier AXA pour l'accueil de cette session.
+
+Nous tenons également à remercier l'ensembe de nos sponsors annuels qui soutiennent l'association: Zenika, OCTO, KaliCustomer et AXA France.
+
+Bon visionnach' biloute!
