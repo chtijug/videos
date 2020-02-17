@@ -1,0 +1,13 @@
+Ch'ti JUG - 12 Fév 20 - Yannick Libert - Machine learning en prod
+
+Découvrez ou re-découvrez les réseaux de neuronnes en compagnie de Yannick Libert.
+
+Session enregistrée le 12 février 2020 à Euratechnologies.
+
+Nous remercions Yannick Libert (@astro_Yan) pour cette présentation des réseaux de neuronnes.
+
+Nous tenons à remercier Octo pour le buffet ainsi que les équipes d'Euratechnologies pour l'accueil de cette session.
+
+Nous tenons également à remercier l'ensembe de nos sponsors annuels qui soutiennent l'association: Zenika, Octo, Mediatech-cx et AXA France.
+
+Bon visionnach' biloute!
