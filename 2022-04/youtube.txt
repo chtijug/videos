@@ -1,0 +1,29 @@
+Quarkus Microservices: One Stack, Infinite Possibilities — Clément Escoffier
+
+Découvrez la "programmation orientée Cloud" avec Quarkus avec Clément Escoffier.
+
+Session enregistrée le 05 Avril 2022 dans les locaux de Decathlon Campus.
+
+Merci à Clément Escoffier (@clementplop) pour cette introduction à la programmation avec Quarkus.
+
+Nous tenons à remercier Decathlon ainsi que RedHat pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, OCTO, KaliCustomer et AXA France.
+
+Bon visionnach' biloute!
+
+================================================================================
+
+Écrire ses opérateurs Kubernetes en Java — Sébastien Blanc
+
+Découvrez comment écrire un operateur Kubernetes en Java grâce à Quarkus avec Sébastien Blanc.
+
+Session enregistrée le 05 Avril 2022 dans les locaux de Decathlon Campus.
+
+Merci à Sébastien Blanc (@sebi2706) pour cette introduction à la programmation d'un operateur Kubernetes en Java.
+
+Nous tenons à remercier Decathlon ainsi que RedHat pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, OCTO, KaliCustomer et AXA France.
+
+Bon visionnach' biloute!

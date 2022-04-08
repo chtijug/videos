@@ -22,6 +22,8 @@ Nous voulons également éviter d'imposer des prérequis à l'orateur, type inst
 ### Enregistrement de la voix de l'orateur
 
 Nous avons hérité d'un système de transmission sans fil de marque Sennheiser composé d'un émetteur de poche SK 2 et d'un récepteur EM 1.
+Nous avons trouver sur le marché de l'occasion un deuxième kit nous servant pour la capture d'un éventuellement deuxième speaker ou, à défaut, de spare en cas de souci.
+Les deux seront mixés sur une mini table de mixage [Behringer Xenyx 502](https://www.thomann.de/fr/behringer_xenyx_502.htm) si besoin.
 
 Nous avons ajouté un micro serre tête [the t.bone HeadmiKe - D EW](https://www.thomann.de/fr/the_tbone_headmike_d_ew.htm).
 
@@ -29,14 +31,14 @@ Nous verrons sur le long terme si ce matériel est suffisant, la qualité de la 
 
 ### Capture de l'ordinateur de l'orateur
 
-En 2014, le JUG a acheté un boitier [Epiphan lecture recorder x2](https://www.epiphan.com/products/lecture-recorder-x2/), il a été utilisé pour diffuser les sessions sur le défunt Parleys.
-Le boitier permet la capture du signal vidéo de l'ordinateur de l'orateur, que ce soit des diapositives, une session de programmation en direct ou encore une démonstration.
+En 2014, le JUG a acheté un boîtier [Epiphan lecture recorder x2](https://www.epiphan.com/products/lecture-recorder-x2/), il a été utilisé pour diffuser les sessions sur le défunt Parleys.
+Le boîtier permet la capture du signal vidéo de l'ordinateur de l'orateur, que ce soit des diapositives, une session de programmation en direct ou encore une démonstration.
 
-Nous utilisons donc ce boitier qui dispose d'une entrée et d'une sortie DVI et d'une entrée et d'une sortie jack 3,5mm.
+Nous utilisons donc ce boîtier qui dispose d'une entrée et d'une sortie DVI et d'une entrée et d'une sortie jack 3,5mm.
 
-Nous branchons le récepteur de micro sans fil sur le boitier, la voix de l'orateur est donc enregistrée sur la vidéo de capture de son ordinateur.
+Nous branchons le récepteur de micro sans fil sur le boîtier, la voix de l'orateur est donc enregistrée sur la vidéo de capture de son ordinateur.
 
-Comme la connectique du boitier est en DVI, nous avons une magnifique collection d'adaptateurs (tout vers DVI et DVI vers VGA et HDMI)
+Comme la connectique du boîtier est en DVI, nous avons une magnifique collection d'adaptateurs (tout vers DVI et DVI vers VGA et HDMI)
 
 ### Caméra pour enregistrer l'orateur
 
@@ -56,13 +58,30 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Avril 2022, Quarkus et Operateur Kubernetes en Java (et avec Quarkus)
+
+* Un problème de diffusion sur le projecteur mettant en cause notre bon vieux Lecture Recorder nous à contraint à abandonner la capture d'écran
+* Cependant, nous avons pu faire une capture du son que nous retransmettons en live dans la salle avec un sacré Win-Win: nous capturons le son, nos speakers ont les mains libres pour coder/causer 🙂👍
+* Double session donc, et voici les résultats que nous publions à J+2: [Clément Escoffier](https://youtu.be/cu8LQ4_367M) et [Sébastien Blanc](https://youtu.be/4XkIN3Gdlks)
+
+NB: La capture son de nos 2 speakers est réalisée grâce à notre deuxième transmetteurs sans fil Sennheiser (initialement un spare chiner sur le marche de l'occasion)
+mixer avec le premier sur cette [petite table de mixage](https://www.thomann.de/fr/behringer_xenyx_502.htm).
+
+### ✅ Septembre 2021, Java 17
+
+* Rien à faire ici, la captation live est assurée par les équipe de notre hôte Euratechnologies, merci à eux.
+
+### ✅ Février 2020, Machine learning en prod
+
+* Rien à faire ici, la captation live est assurée par les équipe de notre hôte Euratechnologies, merci à eux.
+
 ### ✅ Décembre 2019, Redis du Clé/Valeur au Multi-Modèle
 
-* Encore un problème de son, nous devons recourrir une fois de plus à la captation caméra en lieu et place de la captation micro 😠, [nous publions là](https://youtu.be/JL1DVrNxfWo)
+* Encore un problème de son, nous devons recourir une fois de plus à la captation caméra en lieu et place de la captation micro 😠, [nous publions là](https://youtu.be/JL1DVrNxfWo)
 
 ### ✅ Novembre 2019, Pourquoi Gradle ?
 
-* Envore un problème de réglage son, nous devons recourrir à la captation caméra en lieu et place de la captation micro 😠, [nous publions après une semaine de bidouille](https://youtu.be/KAr28fysEDA)
+* Encore un problème de réglage son, nous devons recourir à la captation caméra en lieu et place de la captation micro 😠, [nous publions après une semaine de bidouille](https://youtu.be/KAr28fysEDA)
 
 ### ✅ Octobre 2019, les 10 ans!
 

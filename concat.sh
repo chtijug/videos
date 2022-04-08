@@ -16,6 +16,11 @@ DESCRIPTION
 !
 }
 
+if [ "$#" -ne 1 ]; then
+    usage
+    exit 0;
+fi
+
 case $TARGET in
     speaker)
         rm ${TARGET}.txt || true
