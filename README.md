@@ -58,6 +58,12 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Juin 2022, 1M de messages / CPU / Go avec Kafka Micro Messaging Reactive
+
+* Gros pb de souffle pendant l'enregistrement dont la source venait de notre setup, ce qui s'est ressenti pendant le talk, ce qui a rompu notre sermant d'invisibilité 😠; nous renouvellons nos excuses auprès de Loïc MATHIEU pour la gène occasionnée 😔
+* En conséquence, nous établirons une nouvelle stack pour la captation de la prochaine séance … 😈
+* Congés obligent, nous [publions à J+14](https://youtu.be/ho1gJ8REnQg)
+
 ### ✅ Avril 2022, Quarkus et Operateur Kubernetes en Java (et avec Quarkus)
 
 * Un problème de diffusion sur le projecteur mettant en cause notre bon vieux Lecture Recorder nous à contraint à abandonner la capture d'écran
