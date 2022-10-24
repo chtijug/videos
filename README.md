@@ -5,9 +5,9 @@ Nous allons détailler içi notre système de capture son et vidéo et notre man
 
 Ce document n'a pas la prétention de donner des leçons, nous avançons de manière pragmatique, en faisant des erreurs.
 
-## Objectifs
+## Objectif
 
-Notre objectif est de diffuser les vidéos sur Youtube pour
+Notre objectif est de (re)diffuser les vidéos sur Youtube pour
 
 * Permettre à notre communauté de voir les sessions manquées.
 * Permettre aux participants de revoir d'anciennes sessions.
@@ -19,7 +19,7 @@ Nous voulons également éviter d'imposer des prérequis à l'orateur, type inst
 
 ## Matériel d'enregistrement
 
-### Enregistrement de la voix de l'orateur
+### Enregistrement de la voix de l'orateur·trice
 
 Nous avons hérité d'un système de transmission sans fil de marque Sennheiser composé d'un émetteur de poche SK 2 et d'un récepteur EM 1.
 Nous avons trouver sur le marché de l'occasion un deuxième kit nous servant pour la capture d'un éventuellement deuxième speaker ou, à défaut, de spare en cas de souci.
@@ -29,7 +29,35 @@ Nous avons ajouté un micro serre tête [the t.bone HeadmiKe - D EW](https://www
 
 Nous verrons sur le long terme si ce matériel est suffisant, la qualité de la prise de son étant le sujet le plus important.
 
-### Capture de l'ordinateur de l'orateur
+### Capture de l'ordinateur de l'orateur·trice
+
+#### Depuis Octobre 2022
+
+Après plusieurs déboires avec notre vénérable [Epiphan lecture recorder x2](https://www.epiphan.com/products/lecture-recorder-x2/), nous avons décidé de passer à l'étape supérieure: la réalisation live.
+
+Inspirés par d'autres (comme nos amis du [BreizhCamp](https://github.com/breizhcamp/camaaloth) par exemple, merci encore les gars 🙂) nous avons transformé la chaîne comme suit:
+
+ - enregistrement et réalisation avec [OBS](https://obsproject.com/) sur une machine tournant avec [Fedora Workstation](https://getfedora.org/fr/workstation/) 36
+ - captation des flux vidéos avec deux boîtiers AVerMedia: [ExtremeCAP HDMI/USB 3.0](https://www.avermedia.com/fr/product-detail/BU110) et  [ExtremeCAP SDI/USB 3.0](https://www.avermedia.com/fr/product-detail/BU111)
+ - un splitter HDMI pour faire un Y en sortie du laptop de présentation et envoyer un signal propre au système de diffusion de la salle de conférence tout en en captant une copie
+ - un [convertisseurs HDMI → SDI](https://www.blackmagicdesign.com/fr/products/microconverters/techspecs/W-CONU-11) pour permettre de faire "courir" le signal vidéo de notre choix sur une "longue" distance grâce à un cable SDI de 20m
+ - une [carte son externe USB](https://focusrite.com/fr/usb-audio-interface/scarlett/scarlett-2i2) avec deux entrées, une pour chaque conférencier·e (sachant que nous n'avons que deux micros) et une sortie de monitoring nous permettant de diffuser dans la salle quand cette dernière est sonorisée
+
+Cela nous ouvre plusieurs possibilités en fonction de la salle qui accueille l'évènement, parmi lesquelles :
+
+ - être posé discrètement (idéalement en fond de salle derrière l'auditoire) et loin des conférencier·e·s avec OBS et la caméra pour une réalisation à 1 personne
+ - être séparés avec OBS proche des conférencier·e·s et donc loin de la caméra pour une réalisation à deux cette fois
+ - … *et plus si affinité* …
+
+Cela nous ferme aussi une possibilité (pour le moment) :
+
+ - fini la sécurité de pouvoir au moins rediffuser l'écran seul avec l'audio dans le cas d'un pépin avec OBS par exemple, ce que nous pouvions faire avec le recorder
+
+La chaîne se complexifiant, il nous reste encore des ajustements à faire; notamment envisager une solution de repli nous permettant de sécuriser chaque flux indépendamment d'OBS.
+Nous aimerions pouvoir faire l'équivalent d'un `tee` avec les flux vidéos et audio afin d'en conserver une copie de sauvegarde en amont d'OBS et pouvoir, le cas échéant, faire un montage à posteriori, comme nous le faisions avant. La piste à creuser est l'utilisation de [V4L2 Loopback](https://github.com/umlaeute/v4l2loopback) et de notre couteau suisse du multimédia: ffmpeg (et peut-être une bonne dose de script shell aussi … (^_^') ).
+Affaire à suivre 🙂
+
+#### Avant Octobre 2022
 
 En 2014, le JUG a acheté un boîtier [Epiphan lecture recorder x2](https://www.epiphan.com/products/lecture-recorder-x2/), il a été utilisé pour diffuser les sessions sur le défunt Parleys.
 Le boîtier permet la capture du signal vidéo de l'ordinateur de l'orateur, que ce soit des diapositives, une session de programmation en direct ou encore une démonstration.
@@ -44,7 +72,7 @@ Comme la connectique du boîtier est en DVI, nous avons une magnifique collectio
 
 Nous avons acheté une caméra [JVC GC-PX100BEU](http://fr.jvc.com/camescopes/camera/GC-PX100BEU/), posée sur un trépied [Manfrotto](https://www.manfrotto.fr/compact-action-blanc-trepied-rotule-joystick)
 
-## Montage
+## Montage (Avant Octobre 2022)
 
 Notre but est de réduire cette phase au maximum, afin de limiter la charge de travail après une session.
 
@@ -58,9 +86,16 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Octobre 2022, L’architecture Micro-Front, un levier pour la webperf ?
+
+* 🎉 We did it! 🎉 le studio ambulant de captation a fait ses premiers pas et quelle satisfaction !
+* durant la session, il nous aura fallu être à deux pour gérer à la fois le cadrage et la réalisation, les deux postes étant éloignés l'un de l'autre
+* petite exercice de post production pour cette fois en occultant les URLs affichées dans les bares d'adresses, ffmpeg a encore une fois fait montre de ses capacités 🙂👍
+* Nous [publions à J+7](https://youtu.be/gVKw3C6l7kQ) avec l'accord de nos speakers
+
 ### ✅ Juin 2022, 1M de messages / CPU / Go avec Kafka Micro Messaging Reactive
 
-* Gros pb de souffle pendant l'enregistrement dont la source venait de notre setup, ce qui s'est ressenti pendant le talk, ce qui a rompu notre sermant d'invisibilité 😠; nous renouvellons nos excuses auprès de Loïc MATHIEU pour la gène occasionnée 😔
+* Gros pb de souffle pendant l'enregistrement dont la source venait de notre setup, ce qui s'est ressenti pendant le talk, ce qui a rompu notre serment d'invisibilité 😠; nous renouvelons nos excuses auprès de Loïc MATHIEU pour la gène occasionnée 😔
 * En conséquence, nous établirons une nouvelle stack pour la captation de la prochaine séance … 😈
 * Congés obligent, nous [publions à J+14](https://youtu.be/ho1gJ8REnQg)
 

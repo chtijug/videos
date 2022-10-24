@@ -1,0 +1,14 @@
+L’architecture Micro-Front, un levier pour la webperf ? — Bertrand Laot & Ludovic Lagatie 
+
+Découvrez le bénéfice de performance avec une architecture micro-frontend chez Adeo avec Bertrand Laot & Ludovic Lagatie.
+
+Session enregistrée le 06 Octobre 2022 chez Adeo.
+
+Merci à Bertrand & Ludovic pour cette présentation de la web performance avec les architectures miro frontend et de sa mise en place dans le contexte du site Leroy Merlin.
+
+Nous tenons à remercier Adeo pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, OCTO, KaliCustomer et AXA France.
+
+Bon visionnach' biloute!
+
