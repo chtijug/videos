@@ -2,7 +2,7 @@ Java 17 - Rémi Forax & José Paumard
 
 Avec la récente sortie de Java 17 et son support long terme, découvrez les nouveautés en compagnie de Rémi Forax et José Paumard.
 
-Session enregistrée le 16 Octobre 2021 à Euratechnologies.
+Session enregistrée le 16 Octobre 2022 à Euratechnologies.
 
 Grand merci à José Paumard (@JosePaumard) et Rémi Forax pour ce partage autour des nouveautés Java 17 ... et au delà.
 

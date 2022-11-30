@@ -86,6 +86,11 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Novembre 2022, Gravitee : From developers to entrepreneurs
+
+* Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
+* Nous [publions à J+1](https://youtu.be/r9owlF1_c1k)
+
 ### ✅ Octobre 2022, L’architecture Micro-Front, un levier pour la webperf ?
 
 * 🎉 We did it! 🎉 le studio ambulant de captation a fait ses premiers pas et quelle satisfaction !
@@ -110,11 +115,13 @@ mixer avec le premier sur cette [petite table de mixage](https://www.thomann.de/
 
 ### ✅ Septembre 2021, Java 17
 
-* Rien à faire ici, la captation live est assurée par les équipe de notre hôte Euratechnologies, merci à eux.
+* Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
+* Nous [publions à J+1](https://youtu.be/dunoZF1rs7o)
 
 ### ✅ Février 2020, Machine learning en prod
 
-* Rien à faire ici, la captation live est assurée par les équipe de notre hôte Euratechnologies, merci à eux.
+* Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
+* Nous [publions à J+2](https://youtu.be/B7Qnsd1XRLQ)
 
 ### ✅ Décembre 2019, Redis du Clé/Valeur au Multi-Modèle
 
