@@ -1,0 +1,13 @@
+Testez vos microservices sans peine avec Micronaut Test Resources
+
+Découvrez Micronaut Test Resources en compagnie de Cédric Champeau.
+
+Session enregistrée le 14 Décembre 2022 chez Zenika Lille.
+
+Un grand merci à Cédric (@CedricChampeau / @melix@mastodon.xyz) pour ce partage.
+
+Nous tenons à remercier Zenika Lille pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: OCTO, KaliCustomer et AXA France.
+
+Bon visionnach' biloute!

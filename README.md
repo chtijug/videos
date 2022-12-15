@@ -86,6 +86,12 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Décembre 2022, 
+### ✅ Décembre 2022, Testez vos microservices sans peine avec Micronaut
+
+* Petit souci lors de la captation du flux speaker, un mauvais réglage au niveau des scènes OBS a sabotté la résolution. Rien de vraiment gênant, mais la qualité n'est pas optimale
+* Nous [publions à J+1](https://youtu.be/j8GAWQIEtqI)
+
 ### ✅ Novembre 2022, Gravitee : From developers to entrepreneurs
 
 * Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
