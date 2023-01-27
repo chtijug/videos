@@ -1,0 +1,13 @@
+Developper et Deployer avec GitHub, Codespaces, Copilot et Actions — Tugdual Grall
+
+Découvrez quelques outils proposés au sein de l'écosystème GitHub avec Tugdual Grall (@tgrall).
+
+Session enregistrée le 26 Janvier 2023 chez AXA.
+
+Merci à Tugdual pour cette nouvelle présentation dédiée cette fois aux outils GitHub.
+
+Nous tenons à remercier AXA pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, OCTO, KaliCustomer et AXA France.
+
+Bon visionnach' biloute!

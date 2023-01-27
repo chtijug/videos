@@ -86,7 +86,13 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
-### ✅ Décembre 2022, 
+### ✅ Janvier 2023, Developper et Deployer avec GitHub, Codespaces, Copilot et Actions
+
+* Petit souci lors de la captatation du flux speaker, cette fois la résolution avec un ratio de 16:10 a du être ajustée à la dernière minute,
+il nous faudra : soit un nouveau caneva, soit forcer la résolution du speaker à 16:9, nous s'aimons pas changer quoi que ce soit sur l'ordi de présentation ...
+* autre petit souci: la taille du fichier est d'environ 13 Gib au lieu de 2 habituellement, cela sexplique peut-être à par l'application du filtre night shift
+* Nous [publisons à J+4](https://youtu.be/TsCR-xHZyF0)
+
 ### ✅ Décembre 2022, Testez vos microservices sans peine avec Micronaut
 
 * Petit souci lors de la captation du flux speaker, un mauvais réglage au niveau des scènes OBS a sabotté la résolution. Rien de vraiment gênant, mais la qualité n'est pas optimale
