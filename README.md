@@ -86,6 +86,11 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Février 2023, Pourquoi développer des applications 'Event Driven' avec Apache Pulsar
+
+* Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
+* Nous [publions ici](https://youtu.be/DCDfelXAPmA)
+
 ### ✅ Janvier 2023, Developper et Deployer avec GitHub, Codespaces, Copilot et Actions
 
 * Petit souci lors de la captatation du flux speaker, cette fois la résolution avec un ratio de 16:10 a du être ajustée à la dernière minute,

@@ -1,0 +1,13 @@
+Pourquoi développer des applications 'Event Driven' avec Apache Pulsar : Mise en pratique avec des bières belges — Julien Jakuboswki
+
+Découvrez le développement d'applications orientées évènnements avec Apcache Pulsar avec Julien Jakuboswki.
+
+Session enregistrée le 28 Février 2023 dans les locaux d'Euratechnologies.
+
+Merci à Julien (@jak78) pour cette introduction à Apache Pulsar.
+
+Nous tenons à remercier Euratechnologies pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, OCTO, mediatech-cx et AXA France.
+
+Bon visionnach' biloute!
