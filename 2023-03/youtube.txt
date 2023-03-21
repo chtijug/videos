@@ -1,0 +1,13 @@
+Mon application Java sans serveur sur AWS — Damien Metzler
+
+Découvrez le développement d'applications serverless avec Amazon Web Services en compagnie de Damien Metzler.
+
+Session enregistrée le 16 Mars 2023 dans les locaux d'Euratechnologies.
+
+Merci à Damien (@damienmetzler) pour cette démonstration d'application serverless en Java avec AWS.
+
+Nous tenons à remercier Euratechnologies pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika et AXA France.
+
+Bon visionnach' biloute!

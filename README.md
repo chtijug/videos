@@ -86,6 +86,11 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Mars 2023, Mon application Java sans serveur sur AWS
+
+* Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
+* Nous [publions ici](https://youtu.be/91ehp9RYv8g)
+
 ### ✅ Février 2023, Pourquoi développer des applications 'Event Driven' avec Apache Pulsar
 
 * Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
