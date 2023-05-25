@@ -86,6 +86,11 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Mai 2023, Projet Makair: Comment Et Pourquoi Construire un Respirateur OpenSource ?
+
+* Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
+* Nous [publions ici](https://youtu.be/rcTWevK7nIA)
+
 ### ✅ Mars 2023, Mon application Java sans serveur sur AWS
 
 * Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
