@@ -86,6 +86,11 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Juin 2023, Spring Boot 3
+
+* Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
+* Nous [publions ici](https://youtu.be/8cNClesl2VY)
+
 ### ✅ Mai 2023, Projet Makair: Comment Et Pourquoi Construire un Respirateur OpenSource ?
 
 * Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
