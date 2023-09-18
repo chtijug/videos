@@ -1,0 +1,13 @@
+Kestra — Loïc MATHIEU et Ludovic DEHON
+
+Découvrez Kestra: OpenSource Event Driven Declarative Orchestrator en compagnie de ces créateurs: Loïc MATHIEU et Ludovic DEHON
+
+Session enregistrée le 12 septembre 2023 dans les locaux d'Euratechnologies.
+
+Merci à Loïc (@loicmathieu) et Ludovic (@tchiotludo) pour cette introduction à Kestra (@kestra_io).
+
+Nous tenons à remercier Kestra Technologies et Euratechnologies pour l'accueil de cette session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika et AXA France.
+
+Bon visionnach' biloute!
