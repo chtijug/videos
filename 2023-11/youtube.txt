@@ -1,0 +1,28 @@
+Java 21 — Rémi Forax
+
+Découvrez les nouveautés de Java 21 en compagnie de Rémi Forax.
+
+En bonus pour cette session: un premier retour d'expérience sur les fils virtuels (Virtual Threads vs WebFlux vs WebMVC) présenté par Thomas Recloux.
+
+Session enregistrée le 14 novembre 2023 dans les locaux d'Euratechnologies.
+
+Merci à Rémi pour cette introduction aux nouveautés offertes par Java 21.
+Merci à Thomas pour ce premier benchmark sur les fils virtuels. 
+
+Nous tenons à remercier Pürse et Euratechnologies pour l'accueil ainsi que la captation de la session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika et AXA France.
+
+Bon visionnach' biloute!
+
+Chapitrage:
+0:00:00 Mot du sponsor de la session — Thomas Recloux
+0:00:50 Java 21, plus besoin de WebFlux ?
+0:06:06 Préambule — Rémi Forax
+0:07:57 Classes non nommées (Unnamed Class)
+0:14:23 Programmation Orientée Données (Data Oriented Programming)
+0:40:41 String Template Processor
+0:53:30 Collections ordonnées (Sequenced Collection)
+1:02:58 Fils virtuels (Virtual Threads)
+1:20:56 Intégrité de la plateforme (Platform Integrity)
+1:27:48 Résumé, bilan et questions/réponses
