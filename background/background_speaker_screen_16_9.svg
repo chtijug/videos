@@ -33,23 +33,19 @@
   <!-- <rect id="screen"
      x="603" y="180" width="1280" height="720" fill="lime" /> -->
 
-  <!-- ( 1280 - (245 + 300 + 60 + 139) ) / 5 = 107,... -->
+  <!-- ( 1280 - (60 + 353 + 139) ) / ( 3 + 1 ) = 182 -->
 
-  <!-- 600 + 107 = 707 -->
+  <!-- 600 + 182 = 782 -->
   <image id="logo_axa"
-     x="707" y="963" width="60" height="60" xlink:href="./logos/axa.svg" />
+     x="782" y="963" width="60" height="60" xlink:href="./logos/axa.svg" />
 
-  <!-- 707 + 60 + 107 = 874 -->
-  <image id="logo_mediatech-cx"
-     x="874" y="975" width="300" height="31" xlink:href="./logos/mediatech-cx.svg" />
+  <!-- 782 + 60 + 182 = 1024 -->
+  <image id="logo_externatic"
+    x="1024" y="963" width="353" height="60" xlink:href="./logos/externatic.svg" />
 
-  <!-- 874 + 300 + 107 = 1281 -->
-  <image id="logo_octo"
-     x="1281" y="963" width="245" height="60" xlink:href="./logos/octo.svg" />
-
-  <!-- 1281 + 245 + 107 = 1633 -->
+  <!-- 1024 + 353 + 182 = 1559 -->
   <image id="logo_zenika"
-     x="1633" y="963" width="139" height="60" xlink:href="./logos/zenika.svg" />
+     x="1559" y="963" width="139" height="60" xlink:href="./logos/zenika.svg" />
 
   <!-- -1310 -->
   <rect id="speaker_border"
