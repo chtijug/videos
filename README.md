@@ -86,6 +86,11 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Décembre 2023, Fast Data chez AXA France
+
+* Captation dans la douleur, tout ce qui pouvait capoter a poser problème
+* Nous sauvons les meubles en mode dégradé et [publions ici](https://youtu.be/yWhCBk__SaM)
+
 ### ✅ Novembre 2023, Java 21
 
 * Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.

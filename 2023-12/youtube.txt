@@ -1,0 +1,11 @@
+Fast Data chez AXA France - La détection de fraudes en temps réel avec Kafka Stream — Ahmed BOUENBA & Guillaume THOMAS
+
+Découvrez un exemple d'emploi de Kafka Streams dans la détection de fraudes chez AXA en compagnie de Ahmed BOUENBA et Guillaume THOMAS.
+
+Session enregistrée le 14 décembre 2023 dans les locaux d'AXA France.
+
+Merci à Ahmed et Guillaume pour cette illustration d'un cas d'usage de Kafka Streams.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika et AXA France.
+
+Bon visionnach' biloute!
