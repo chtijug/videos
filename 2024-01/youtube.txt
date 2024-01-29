@@ -1,0 +1,11 @@
+CQRS CQFD — Delphin Aubin & Roman Acevedo
+
+Découvrez la signification de CQRS, les concepts et des exemples de mise en place en compagnie de Delphin Aubin (@delphinaubin) et de Roman Acevedo.
+
+Session enregistrée le 23 janvier 2324 dans les locaux de Zenika Lille.
+
+Merci à Delphin et Roman pour cette entrée en matière de CQRS.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: AXA France, Externatic et Zenika.
+
+Bon visionnach' biloute!

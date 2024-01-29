@@ -86,6 +86,12 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Janvier 2024, CQRS chez Zenka Lille
+
+* Captation au poil malgrès un setup un peu dans la douleur
+* Nouveauté ici: on intègre le contenu vidéo des speakers dans le rendu final 😎
+* Nous [publions ici](https://youtu.be/0v7zHnNbqfA)
+
 ### ✅ Décembre 2023, Fast Data chez AXA France
 
 * Captation dans la douleur, tout ce qui pouvait capoter a poser problème
