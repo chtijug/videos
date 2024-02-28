@@ -86,6 +86,12 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Février 2024, REST next level : Ecrire des APIs web orientées métier
+
+* Captation avec le nouveau setup son, au poil. Désormais, le(s) speaker(s) n'ont plus à reformuler les questions de l'auditoire, elles sont captées "live"
+* Nous avions la possibilité de sonoriser la salle, ce que nous n'avons pas fait mais qui aurait pu être utile afin que la personne du public ait un feedback et maintienne le micro pendant ses échanges.
+* Nous [publions ici](https://youtu.be/K2FIhIhKufs)
+
 ### ✅ Janvier 2024, CQRS chez Zenka Lille
 
 * Captation au poil malgrès un setup un peu dans la douleur

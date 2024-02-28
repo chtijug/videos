@@ -1,0 +1,13 @@
+REST next level : Ecrire des APIs web orientées métier — Julien Topçu
+
+Découvrez une autre façon d'écrire vos API Web ReST en compagnie de Julien Topçu (@JulienTopcu).
+
+Session enregistrée le 22 février 2024 dans les locaux de Epitech Lille.
+
+Merci à Julien pour cette présentation et ce retour d'expérience sur l'écriture d'API ReST.
+
+Nous remerçions égelement Epitech Lille pour l'accueil de la session, ainsi que Externatic pour le buffet.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: AXA France, Externatic et Zenika.
+
+Bon visionnach' biloute!
