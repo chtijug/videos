@@ -21,6 +21,28 @@ Nous voulons également éviter d'imposer des prérequis à l'orateur, type inst
 
 ### Enregistrement de la voix de l'orateur·trice
 
+#### Depuis Février 2024
+
+En février 2024, nous avons décidé d'investir sur la captation sonore pour fixer quelques problèmes récurrents qui commençaient à devenir pénibles
+- l'obligation de faire répéter les questions de l'auditoire par les speakers qui nuit au confort de ces derniers
+- la double installation des micro lorsqu'il faut équiper deux intervenants
+- le bouton off des émetteurs, un peu trop facile actionné une fois ce dernier dans la poche
+- l'impossibilité de sonoriser une salle qui n'est pas équipée au préalable
+
+Pour résoudre ses points nous avons opter pour le matériel suivant:
+- un kit micro sans fil [Sirus Quad R 2H 2B](https://www.thomann.de/fr/sirus_quad_r_2h_2b_2_headmike_d_set.htm) rackable permettant d'équiper jusqu'à 2 personnes en présentation et 2 personnes du publique pour la captation des questions (on aurait dit que ce kit est fait pour ça 😆). Les fréquences de communication sont personnalisables et faciles à configurer. Le kit est installé dans un [flight case](https://www.thomann.de/fr/thon_case_4u_sirus_quad_4ch.htm) muni d'un [déport pour les antennes](https://www.thomann.de/fr/thomann_antennenumsetzter.htm) pour en faciliter le transport ET la mise en service (et il reste même un peu de place pour y ranger les micro serre-tête 😉)
+- une table de mixage [Behringer Xenyx 1204USB](https://www.thomann.de/fr/behringer_xenyx_1204_usb.htm) disposant de 4 entrées microphone, et faisant également office de carte son USB. Le préampli de chaque micro est couplé à un compresseur ce qui améliore drastiquement la qualité de la prise.
+- une enceinte avec stand [Bose S1 Pro](https://www.thomann.de/fr/bose_s1_pro_stand_bundle.htm) pour diffuser et sonoriser l'audience dans une salle sans équipement
+- le tout branché en XLR et/ou Jack Stéréo (aka [Symétrique](https://fr.wikipedia.org/wiki/Ligne_sym%C3%A9trique)) pour limiter les interférences
+
+Le [compresseur](https://fr.wikipedia.org/wiki/Compresseur_(audio)), c'est la Vie!
+En gros, il permet de restreindre la voix dans une certaine plage de volume (en vrai c'est faux, mais pour simplifier ici: c'est l'idée)
+ce qui permet de monter le niveau de volume assez haut sans trop craindre de saturation (quand l'aiguïlle passe la zone rouge).
+C'est notamment le secret des voix à la radio, dans les PodCasts, … et ici ça fait effet aussi.
+Plus besoin de retoucher le niveau des voix en post prod car captée trop basse.
+
+#### Avant Février 2024
+
 Nous avons hérité d'un système de transmission sans fil de marque Sennheiser composé d'un émetteur de poche SK 2 et d'un récepteur EM 1.
 Nous avons trouver sur le marché de l'occasion un deuxième kit nous servant pour la capture d'un éventuellement deuxième speaker ou, à défaut, de spare en cas de souci.
 Les deux seront mixés sur une mini table de mixage [Behringer Xenyx 502](https://www.thomann.de/fr/behringer_xenyx_502.htm) si besoin.
