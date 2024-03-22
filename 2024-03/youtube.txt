@@ -1,0 +1,23 @@
+Generative AI par la pratique: Cas concrets d'utilisation d'un LLM en Java — Guillaume Laforge
+
+Découvrez les LLM ainsi que le moyen d'interagir avec en compagnie de Guillaume Laforge (@glaforge).
+
+Session enregistrée le 21 mars 2024 dans les locaux d'Euratechnologies.
+
+Merci à Guillaume pour cette introduction aux LLM.
+
+Nous tenons à remercier Vaduo et Euratechnologies pour l'accueil ainsi que la captation de la session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: zenika, externatic et AXA France.
+
+Bon visionnach' biloute!
+
+Chapitrage:
+0:00:00 Introduction
+0:01:43 Un Peu de Vocabulaire
+0:28:36 Outils Utilisés et Proposés par Google
+0:52:27 LLM et Hallucinations
+1:13:34 Démo #1 — Bedtime Stories
+1:24:50 LangChain4J
+1:26:27 Démo #2 — LLM Doc Chatbot
+1:35:43 Conclusion

@@ -108,6 +108,11 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Mars 2024, Generative AI par la pratique: Cas concrets d'utilisation d'un LLM en Java
+
+* Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
+* Nous [publions ici](https://youtu.be/Ty_WKXu0kFw)
+
 ### ✅ Février 2024, REST next level : Ecrire des APIs web orientées métier
 
 * Captation avec le nouveau setup son, au poil. Désormais, le(s) speaker(s) n'ont plus à reformuler les questions de l'auditoire, elles sont captées "live"
