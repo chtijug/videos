@@ -1,0 +1,35 @@
+La compression Web : comment (re)prendre le contrôle ?
+
+Prenez votre billet pour un petit tour dans le monde merveilleux de la compression de données,
+vos skipper pour cette croisière seront Hubert Sablonnière (@hsablonniere) et Antoine Caron (@Slashgear_).
+
+Session enregistrée le 29 mai 2024 dans les locaux d'Adeo.
+
+Merci à Antoine et Hubert pour cette introduction aux algorithme de compression et leurs usages dans le Web.
+
+Nous tenons à remercier Adeo pour l'accueil de la session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, Externatic et AXA France.
+
+Bon visionnach' biloute!
+
+Vidéos citées dans la présentation:
+- [en] "Why the Lempel-Ziv algorithms are so dominant" (https://youtu.be/Jqc418tQDkg)
+- [en] "Data Compression (Summer 2023) - Lecture 11 - DEFLATE (gzip)" (https://youtu.be/SJPvNi4HrWQ)
+- [en] Playlist "Data Compression (Summer 2023)" (https://www.youtube.com/playlist?list=PLU4IQLU9e_OrY8oASHx0u3IXAL9TOdidm)
+
+Chapitrage:
+0:00:00 Introduction
+0:01:07 Lexique
+0:03:33 Compression et Minification sont dans un bateau…
+0:08:15 Usage de la compression dans le Web aujourd'hui
+0:09:40 Comment ça marche ?
+0:16:26 Un peu d'histoire
+0:18:46 L'encodage de Huffman
+0:25:10 L'encodage LZ77
+0:32:48 PKZIP & Deflate (gzip)
+0:44:55 Zopfli & Brotli
+0:52:32 Fichier binaires != fichiers compressés
+0:56:57 Compression Dictionary Transport
+1:04:00 Récapitulatif
+1:06:12 Foire Aux Questions

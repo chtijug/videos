@@ -108,6 +108,14 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Mai 2024, La compression Web : comment (re)prendre le contrôle ?
+
+* Captation dans un amphi avec sonorisation car nous n'avons pas pu nous brancher sur l'infra de la salle
+* Petit souci de larsen ce qui nous a malheureusement fait opter à nouveau pour la reformulation des questions
+* Pour limiter l'impact sur l'enregistrement, des filtres (anti-bruit et compression) on été ajouter à OBS
+  ce qui a eu pour effet un léger impact sur la vidéo et créé un décalage son/video de 500 ms rattrapé en post-prod
+* Nous [publions ici](https://youtu.be/BVM5vsPYbfg)
+
 ### ✅ Mars 2024, Generative AI par la pratique: Cas concrets d'utilisation d'un LLM en Java
 
 * Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
