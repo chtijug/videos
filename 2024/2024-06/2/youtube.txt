@@ -1,0 +1,26 @@
+Créez vos conteneurs en toute sérénité — Hakim Lakrout
+
+Si vous créer des conteneurs, comment savez vous qu'ils sont bien fait ?
+Explorez quelques pistes d'amélioration en compagnie de Hakim Lakrout.
+
+Session enregistrée le 25 juin 2024 dans les locaux de Norsys.
+
+Merci à Hakim pour cette introduction aux tests de conteneurs.
+
+Nous tenons à remercier Norsys pour l'accueil de la session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, Externatic et AXA France.
+
+Bon visionnach' biloute!
+
+Chapitrage:
+0:00:00 Introduction
+0:01:11 Quelques Définitions
+0:03:31 Création d'Images De Container
+0:04:50 Comment Vérifier Les Images Construites ?
+0:05:30 Solution 1 — Container Structure Test
+0:07:00 Solution 1 — Démo
+0:17:02 Solution 2 — BATS
+0:17:59 Solution 2 — Démo
+0:21:36 Conclusion
+0:22:29 Foire Aux Questions

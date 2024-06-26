@@ -1,0 +1,26 @@
+Jouons un peu avec la réalité ! — Thomas Verhoken
+
+Faut-il attendre ques les casques de réalité augmenté se démocratisent pour commencer à s'y intéresser ?
+Voyez ce qu'il est d'ores et déjà possible de faire avec un smartphone et un navigateur Web mobile dès 2024 en compagnie de Thomas Verhoken.
+
+Session enregistrée le 25 juin 2024 dans les locaux de Norsys.
+
+Merci à Thomas pour cette introduction à la réalité augmenté sur navigateur mobile.
+
+Nous tenons à remercier Norsys pour l'accueil de la session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, Externatic et AXA France.
+
+Bon visionnach' biloute!
+
+Chapitrage:
+0:00:00 Introduction
+0:01:58 Démonstration N°1
+0:02:35 Démonstration N°2
+0:02:55 Démonstration N°3
+0:04:28 Démonstration N°4
+0:05:47 Démonstration N°5
+0:07:10 Comment Ça Marche?
+0:11:17 Références
+0:13:10 Remerciements
+0:14:08 Foire Aux Questions

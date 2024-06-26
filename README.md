@@ -108,6 +108,16 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ⚠️ Juin 2024, triple session
+
+* «Quand la vidéo fait défaut»
+* La captation du flux camera a flanché juste avant le debut du talk,
+  on passe alors en mode dégradé en se concentrant sur le flux speaker
+* Des soucis de résolution et de colorimétrie, le suspect principal est OBS
+  qui a une fâcheuse tendance à saboter les réglages avant chaque session,
+  c'est pénible et il est peut-être temps de trouver un remplaçant
+* Nous [publions ici](https://youtu.be/F3MCUJ0spPQ), [là](https://youtu.be/NIV4SIIjSeI) et [ici aussi](https://youtu.be/OtdClxc3kSY)
+
 ### ✅ Mai 2024, La compression Web : comment (re)prendre le contrôle ?
 
 * Captation dans un amphi avec sonorisation car nous n'avons pas pu nous brancher sur l'infra de la salle
@@ -142,6 +152,11 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 * Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
 * Nous [publions ici](https://youtu.be/n6Oqn7v3Pmk)
+
+### ❎ Octobre 2023, double session testing
+
+* Échec critique, setup laborieux conclu par un souci de projection lié au matériel de captation
+* Nous abandonnons l'enregistrement 😭
 
 ### ✅ Septembre 2023, Kestra
 

@@ -1,0 +1,24 @@
+Les Annotation Processor, c'est comme son premier amour — Yonni Tabling
+
+Vous connaissez sûrement déja des annotation processor (Lombok, MapStruct, …),
+et bien voyez comment ils sont fait en compagnie de Yonni Tabling.
+
+Session enregistrée le 25 juin 2024 dans les locaux de Norsys.
+
+Merci à Yonni pour cette introduction aux processeur d'annotations en Java.
+
+Nous tenons à remercier Norsys pour l'accueil de la session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, Externatic et AXA France.
+
+Bon visionnach' biloute!
+
+Chapitrage:
+0:00:00 Introduction
+0:01:24 Un Peu d'Histoire
+0:02:10 À Quoi Ça Sert ?
+0:03:14 Comment Ça Marche ?
+0:05:26 Démonstration
+0:14:09 Exemple De La Vraie Vie
+0:15:56 Retour d'Expérience
+0:17:11 Foire Aux Questions
