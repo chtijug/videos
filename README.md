@@ -108,6 +108,14 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ⚠️ Novembre 2024, Comment exporter l'inexportable ?
+
+* Encore un setup dans la douleur, pourquoi OBS fait-il n'importe quoi avec les réglages des scènes !?😡
+* La scène speaker+laptop est inutilisable
+* Nouveauté cette fois-ci: une coloration jaunâtre des diapos qui ne vient pas du laptop speaker😞
+* La captation son est au top, la sonorisation salle offre le feedback nécessaire aux interlocuteurs pour utiliser correctement le micro 👍
+* Nous [publions ici](https://youtu.be/WI7a9t2ibD0)
+
 ### ⚠️ Octobre 2024, Legal JVM Dopes For Your Apps
 
 * Session en 🇬🇧

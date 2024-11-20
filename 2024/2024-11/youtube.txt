@@ -1,0 +1,17 @@
+Reactive Stream : Comment exporter l'inexportable ? — Benjamin Douchet
+
+Découvrez les possibilités offerte par les Reactive Stream en matière de transfert de données
+dans le cadre d'une étude de cas du monde réel en compagnie de Benjamin Douchet.
+
+Session enregistrée le 19 novembre 2024 dans les locaux de Norsys.
+
+Merci à Benjamin pour ce retour d'expérience.
+
+Nous tenons à remercier Norsys pour l'accueil de la session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, Externatic et AXA France.
+
+Bon visionnach' biloute!
+
+Chapitrage:
+0:00:00 Introduction
