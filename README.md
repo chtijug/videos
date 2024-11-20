@@ -108,6 +108,11 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Septembre 2024, Double Session ElasticSearch
+
+* Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
+* Nous [publions ici](https://youtu.be/Z1UlUf2g4_A) et [publions là](https://youtu.be/7xoxYx10QBw)
+
 ### ⚠️ Juin 2024, triple session
 
 * «Quand la vidéo fait défaut»

@@ -1,0 +1,18 @@
+Elasticsearch Query Language — David Pilato
+
+Découvrez les nouveautés qu'offre Elasticsearch en matière de pipeline de données
+durant ce tool in action animé par David Pilato (@dadoonet)
+
+Session enregistrée le 12 septembre 2024 à Euratechnologies.
+
+Merci à David pour ce Elastic-in-action.
+
+Nous tenons à remercier Euratechnologies pour l'accueil de la session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, Externatic et AXA France.
+
+Bon visionnach' biloute!
+
+Chapitrage:
+0:00:00 Introduction
+

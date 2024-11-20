@@ -1,0 +1,18 @@
+Elasticsearch: La recherche à l'ère de l'IA — David Pilato
+
+Découvrez les interactions possible entre Elasticsearch et les différents outils
+du moment dans le domaine de l'IA en compagnie de David Pilato (@dadoonet)
+
+Session enregistrée le 12 septembre 2024 à Euratechnologies.
+
+Merci à David pour ce tour des nouveautés d'Elastic.
+
+Nous tenons à remercier Euratechnologies pour l'accueil de la session.
+
+Nous tenons également à remercier les sponsors annuels qui soutiennent notre association: Zenika, Externatic et AXA France.
+
+Bon visionnach' biloute!
+
+Chapitrage:
+0:00:00 Introduction
+
