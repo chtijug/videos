@@ -1,0 +1,15 @@
+Legal JVM Dopes For Your Apps — Dmitri Chuyko
+
+Let's have a look to how you could improve your cloud resources usage
+by tweaking the JVM before having to optimize the source code of your apps.
+
+Lecture recorded on october 14th, 2024 in Zenika's Lille headquarter.
+
+Many thanks Dmitri for the tour of JVM capabilities.
+
+Many thanks too for their annual sponsorship to: Zenika, Externatic and AXA France.
+
+Enjoy!
+
+Chapters:
+0:00:00 Introduction

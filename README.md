@@ -108,6 +108,13 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ⚠️ Octobre 2024, Legal JVM Dopes For Your Apps
+
+* Session en 🇬🇧
+* Setup dans la douleur et impossible de capter le flux speaker
+* On passe en mode dégradé en filmant la session à la caméra (speaker + projection vidéo)
+* Nous [publions ici](https://youtu.be/_oXnnQcD_wc)
+
 ### ✅ Septembre 2024, Double Session ElasticSearch
 
 * Rien à faire ici, la captation live est assurée par les équipes de notre hôte Euratechnologies, merci à eux.
