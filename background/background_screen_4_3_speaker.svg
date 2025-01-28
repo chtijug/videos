@@ -46,7 +46,8 @@
   <image id="logo_zenika"
      x="1692" y="860" width="139" height="60" xlink:href="./logos/zenika.svg" />
 
+  <!--
   <image id="logo_externatic"
     x="1615" y="965" width="177" height="30" xlink:href="./logos/externatic.svg" />
-
+  -->
 </svg>

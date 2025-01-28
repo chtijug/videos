@@ -43,10 +43,10 @@
   <image id="logo_axa"
      x="259" y="963" width="60" height="60" xlink:href="./logos/axa.svg" />
 
-  <!-- 259 + 60 + 226 = 545 -->
+  <!-- 259 + 60 + 226 = 545
   <image id="logo_externatic"
     x="545" y="978" width="177" height="30" xlink:href="./logos/externatic.svg" />
-
+  -->
   <!-- 545 + 177 + 226 = 948 -->
   <image id="logo_zenika"
      x="948" y="963" width="139" height="60" xlink:href="./logos/zenika.svg" />
