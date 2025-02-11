@@ -1,0 +1,14 @@
+Unlocking Observability in Kafka-Based Systems with OpenTelemetry — Harry Kimpel
+
+Let's dive into in-app observability and more with OpenTelemetry with Harry Kimpel
+
+Lecture recorded in Purse on January 29th, 2025 at Purse
+
+Many thanks to Harry for the tour of OpenTelemetry capabilities in real world context.
+
+Many thanks too for their annual sponsorship to: Zenika and AXA France.
+
+Enjoy!
+
+Chapters:
+0:00:00 Introduction

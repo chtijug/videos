@@ -108,6 +108,14 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Janvier 2025, Unlocking Observability in Kafka-Based Systems with OpenTelemetry
+
+* Session en 🇬🇧
+* Une captation presque sans accrocs
+* Setup toujours dans le stress avec OBS qui continue de faire n'imp avec les réglages
+* On remplace notre splitter HDMI avec le tout nouveau [Maître Splitter](https://www.amazon.fr/dp/B083JVPXDY), qui fait aussi HDCP killer pour contourner les protections de contenu via DRM en place notamment sur les Mac récents (ARM et sans sortie HDMI, peut-être aussi une question d'OS 🤔)
+* Nous [publions ici](https://youtu.be/GyXNlsLYZ4s)
+
 ### ⚠️ Novembre 2024, Comment exporter l'inexportable ?
 
 * Encore un setup dans la douleur, pourquoi OBS fait-il n'importe quoi avec les réglages des scènes !?😡
