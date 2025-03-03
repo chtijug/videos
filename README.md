@@ -108,6 +108,12 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
+### ✅ Février 2025, Maman, j'ai rétréci les batchs!
+
+* Session hébergée à Euratechnologies mais sans leur soutien technique
+* Nous enregistrons séparément les flux et montons le tout en post-production #oldschool
+* Nous [publions ici](https://youtu.be/Y2tuVLQhq0k)
+
 ### ✅ Janvier 2025, Unlocking Observability in Kafka-Based Systems with OpenTelemetry
 
 * Session en 🇬🇧
