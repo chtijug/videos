@@ -33,19 +33,19 @@
   <!-- <rect id="screen"
      x="603" y="180" width="1280" height="720" fill="lime" /> -->
 
-  <!-- ( 1280 - (60 + 177 + 139) ) / ( 3 + 1 ) = 226 -->
+  <!-- ( 1280 - (60 + 60 + 139) ) / ( 3 + 1 ) = 255 -->
 
-  <!-- 600 + 226 = 826 -->
+  <!-- 600 + 255 = 855 -->
   <image id="logo_axa"
-     x="826" y="963" width="60" height="60" xlink:href="./logos/axa.svg" />
+     x="855" y="963" width="60" height="60" xlink:href="./logos/axa.svg" />
 
-  <!-- 826 + 60 + 226 = 1112
-  <image id="logo_externatic"
-    x="1112" y="978" width="177" height="30" xlink:href="./logos/externatic.svg" />
-  -->
-  <!-- 1112 + 177 + 226 = 1515 -->
+  <!-- 855 + 60 + 255 = 1170 -->
+  <image id="logo_norsys"
+    x="1170" y="963" width="60" height="60" xlink:href="./logos/norsys.png" />
+
+  <!-- 1170 + 60 + 255 = 1485 -->
   <image id="logo_zenika"
-     x="1515" y="963" width="139" height="60" xlink:href="./logos/zenika.svg" />
+     x="1485" y="963" width="139" height="60" xlink:href="./logos/zenika.svg" />
 
   <!-- -1310 -->
   <rect id="speaker_border"
