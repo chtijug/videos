@@ -1,0 +1,14 @@
+Ce que Java nous réserve encore après 30 ans — Guillaume Dufrêne
+
+Merci Guillaume pour cette retrospective sur Java ainsi que les pointeurs sur les nouveautés à venir sur la plateforme.
+
+Session enregistrée le 9 avril 2025 chez AXA
+
+Nous remercions AXA pour l'accueil de la session.
+
+Nous tenons à remercier également nos sponsors saison: AXA, Norsys et Zenika
+
+Bon visionnach' biloute!
+
+Chapitrage:
+0:00:00 Introduction
