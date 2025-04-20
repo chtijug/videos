@@ -1,0 +1,13 @@
+AI-Augmented Programing in Java: Agentic Systems 🇬🇧 — Stephan Janssen
+
+Nowadays, it's hard to not be close to someone talking about AI,
+OK, but how does this work and how, as Java developers, can we benefit from this new tool ?
+That what Stephan will explain and demo with the DevoxxGenie plugin for JetBrains'platorm based IDE.
+
+Thanks a lot @Stephan007 for being with us and sharing your near future forecast !
+
+We're also glad for IUT Lille to host the meetup.
+
+And many Thanks to our season sponsors supporting our actions: AXA, Norsys and Zenika
+
+00:00:00 Introduction
