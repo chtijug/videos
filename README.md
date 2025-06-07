@@ -76,7 +76,7 @@ Cela nous ferme aussi une possibilité (pour le moment) :
  - fini la sécurité de pouvoir au moins rediffuser l'écran seul avec l'audio dans le cas d'un pépin avec OBS par exemple, ce que nous pouvions faire avec le recorder
 
 La chaîne se complexifiant, il nous reste encore des ajustements à faire; notamment envisager une solution de repli nous permettant de sécuriser chaque flux indépendamment d'OBS.
-Nous aimerions pouvoir faire l'équivalent d'un `tee` avec les flux vidéos et audio afin d'en conserver une copie de sauvegarde en amont d'OBS et pouvoir, le cas échéant, faire un montage à posteriori, comme nous le faisions avant. La piste à creuser est l'utilisation de [V4L2 Loopback](https://github.com/umlaeute/v4l2loopback) et de notre couteau suisse du multimédia: ffmpeg (et peut-être une bonne dose de script shell aussi … (^_^') ).
+Nous aimerions pouvoir faire l'équivalent d'un `tee` avec les flux vidéos et audio afin d'en conserver une copie de sauvegarde en amont d'OBS et pouvoir, le cas échéant, faire un montage à posteriori, comme nous le faisions avant. La piste à creuser est l'utilisation de [V4L2 Loopback](https://github.com/umlaeute/v4l2loopback) et de notre couteau suisse du multimédia: ffmpeg (et peut-être une bonne dose de script shell aussi … 😅 ).
 Affaire à suivre 🙂
 
 #### Avant Octobre 2022
@@ -102,11 +102,32 @@ Idéalement nous aimerions supprimer cette étape, comme nos amis du [BreizhCamp
 
 Dès le début, [Guillaume](https://twitter.com/GuillaumeWallet)  était persuadé que [ffmpeg](http://ffmpeg.org/) pourrait faire le boulot ... et il était dans le vrai. Il a donc complètement scripté le montage, avec séquence d'intro, incrustation des deux vidéos au dessus d'une image de fond.
 
-Vous trouverez le script de la session de Février 2018 (sous forme de Makefile 😳) [ici](https://github.com/chtijug/videos/blob/master/2018-02/Makefile).
+Vous trouverez le script de la session de Février 2018 (sous forme de Makefile 😳) [ici](https://github.com/chtijug/videos/blob/master/2018/2018-02/Makefile).
 
 La seule étape manuelle est de trouver le point de synchro entre les deux vidéos (capture ordinateur et caméra) ainsi que les moments ou démarrer et arrêter le montage.
 
 ## Journal
+
+### ✅ ~~Mai~~ Juin, The Reputation Formula: Turbocharge Your Developer Career
+
+* Session en 🇬🇧
+* Session hébergée par Zenika Lille
+* Rien à faire ici, la captation live est assurée par Vincent Vauban, merci Vincent 😉👍.
+* Nous [publions ici](https://youtu.be/U4G_bZja66I)
+
+### ⚠️ Avril 2025, Ce que Java nous réserve encore après 30 ans
+
+* Encore un échec lié à OBS: impossible de restaurer les flux sur les scènes composites
+* Nous optons pour l'enregistrement séparer des 2 flux et un assemblage en post-production #oldschool
+* Nous [publions ici](https://youtu.be/B9SUCiSLEM0)
+
+### ⚠️ Mars 2025, AI-Augmented Programing in Java: Agentic Systems
+
+* Session en 🇬🇧
+* Le setup a échoué, impossible de capter le flux speaker (Mac ARM récent) 😡
+* Nous optons pour le service dégradé en filmant uniquement à l'aide de la caméra
+* Hors-mi le son, le résultat final est mieux qu'espérer dans ce mode dégradé
+* Nous [publions ici](https://youtu.be/U4G_bZja66I)
 
 ### ✅ Février 2025, Maman, j'ai rétréci les batchs!
 
