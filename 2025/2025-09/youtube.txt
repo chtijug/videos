@@ -1,0 +1,27 @@
+Rust: Sûr et Concurrent. Mais Comment Fait-il? — Benjamin Coenen
+
+Session enregistrée le 23 Septembre 2025 Chez Purse.
+
+Vous avez (sûrement) déjà entendu parler de Rust, mais n'avez jamais pris le temps d'y jeter un œil?
+Benjamin vas tout vous expliquer, ou presque:
+le temps de cette session, vous découvrirez les concepts clefs du langage et ce qui le différencie des autres.
+
+Merci à Benjamin pour cette introduction à Rust.
+
+Nous remercions Purse pour l'accueil (en urgence de dernière minute) de la session 😎👍.
+
+Nous tenons à remercier également nos sponsors saison: AXA, Norsys et Zenika.
+
+Bon visionnach' biloute!
+
+Chapitrage:
+00:00:00 Introduction
+00:01:56 Agenda
+00:03:38 Présentation de Rust
+00:08:30 Petit Rappel Mémoire
+00:22:00 Rust: Borrow Checker
+00:44:22 Rust: Traits
+00:48:50 Rust: Smart Pointers
+01:12:20 Rust: Markers
+01:14:12 Conclusion
+01:15:50 Q&A

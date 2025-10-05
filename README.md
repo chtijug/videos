@@ -108,7 +108,15 @@ La seule étape manuelle est de trouver le point de synchro entre les deux vidé
 
 ## Journal
 
-### ✅ ~~Mai~~ Juin, The Reputation Formula: Turbocharge Your Developer Career
+### ✅ Septembre 2025, Rust: Sûr et Concurrent. Mais Comment Fait-il?
+
+* Suite à un changement de plan de dernière minute nous relocalisons la séance chez Purse
+* Nous nous privons de la captation live et utilisons le splitter pour un double affichage en salle
+* Nous enregistrons en mode light: caméra uniquement et le speaker enregistre pour nous son écran (avec QuickTime Player)
+* Nous traitons le son en post prod pour diminuer les bruits de fond avec Audacity
+* Nous [publions ici](https://youtu.be/sixwFb_9O-Y)
+
+### ✅ ~~Mai~~ Juin 2025, The Reputation Formula: Turbocharge Your Developer Career
 
 * Session en 🇬🇧
 * Session hébergée par Zenika Lille

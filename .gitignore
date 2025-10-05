@@ -1,8 +1,11 @@
 *.aac
 *.m4a
 *.mkv
+*.MP3
+*.mp3
 *.MP4
 *.mp4
 *.mov
+*.wav
 computer.txt
 speaker.txt
