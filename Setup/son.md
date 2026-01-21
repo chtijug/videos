@@ -98,7 +98,7 @@ Le main mix n'est pas concerné par le vu-mètre.
 Non utiliser
 
 - laisser les potards à 0 (12h)
-- desengager 🔺 main mix / 🔻 ALT 3-4
+- désengager 🔺 main mix / 🔻 ALT 3-4
 
 ## Avant la session — Étalonnage
 
