@@ -1,0 +1,18 @@
+Build an AI-Infused ChatBot using LangChain4J — Antonio Goncalves
+
+Session enregistrée le 20 janvier 2026 chez Zenika Lille
+
+Découvrez pas à pas la construction d'une application ayant recours à plusieurs modèles
+en Java avec l'aide de LangChain4J en compagnie d'Antonio Goncalves.
+
+Merci Antonio pour cette introduction aussi pédagogique qu'intéressante au monde des LLM
+et à leurs usages concrets.
+
+Merci à Zenika Lille pour l'accueil de la session,
+
+Nous tenons à remercier également nos sponsors saison: AXA, Norsys et Zenika.
+
+Bon visionnach' biloute!
+
+Chapitrage:
+00:00:00 Introduction
