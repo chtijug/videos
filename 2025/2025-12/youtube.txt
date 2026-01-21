@@ -1,0 +1,16 @@
+Spring Boot: Chapitre 4 — Stéphane Nicoll
+
+Session enregistrée le 18 décembre 2025 dans l'auditorium d'EuraTechnologies
+
+Petit tour des nouveautés de Spring Boot dans la version 4.0(.1) en compagnie de Stéphane Nicoll.
+
+Merci beaucoup Stéphane pour ce tout d'horizon des nouveautés, qui plus est le jour de la sortie de sa première mise à jour 😎👍
+
+Merci à EuraTechnologies pour l'accueil de la session,
+
+Nous tenons à remercier également nos sponsors saison: AXA, Norsys et Zenika.
+
+Bon visionnach' biloute!
+
+Chapitrage:
+00:00:00 Introduction
